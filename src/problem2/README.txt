@@ -3,7 +3,9 @@
  1. How to make thing work 
 --------------------------------------------------------------- 
 
-- open new terminal on visual studio
+- open visual studio on this folder
+
+- open new terminal
 
 - type and run this line: npm install
 
